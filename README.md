@@ -1,7 +1,7 @@
-#FHE BubbleSort and AddtionSort
+#Fully Homomorphic Encryption BubbleSort and AddtionSort
 This is the source of FHE BubbleSort and AddtionSort based on TFHE.
 
-**version 1.2** -- 2026.03.22
+**version 1.3** -- 2026.03.22
 
 
 # TFHE
